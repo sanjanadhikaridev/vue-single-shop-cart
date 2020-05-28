@@ -2,8 +2,6 @@
 
 It's just a shopping cart experiment using Vue.js and CDN bootstrap library.
 
-- [See it live!](http://matheusazzi.com/shopping-cart/)
-
 This project is built with [vue-cli](https://github.com/vuejs/vue-cli) and [vuex](https://github.com/vuejs/vuex).
 
 Also, I suggest you to use [vue-devtools](https://github.com/vuejs/vue-devtools) if you want a see how everything happens.
