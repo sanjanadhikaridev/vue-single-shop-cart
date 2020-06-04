@@ -10,6 +10,6 @@ Vue.filter('formatMoney', accounting.formatMoney)
 Vue.filter('pluralize', pluralize)
 
 new Vue({
-  store,
-  render: h => h(Shop)
+    store,
+    render: h => h(Shop)
 }).$mount('#shop')
